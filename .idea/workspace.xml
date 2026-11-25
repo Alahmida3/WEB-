@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9ab7592f-ac52-4d9c-a916-86ecc8ef9c63" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Cabinet/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cabinet/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cabinet/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cabinet/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cabinet/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cabinet/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cabinet/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GestionCabinetMedical/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GestionCabinetMedical/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GestionCabinetMedical/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GestionCabinetMedical/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GestionCabinetMedical/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RendezVous/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RendezVous/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RendezVous/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RendezVous/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RendezVous/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RendezVous/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RendezVous/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3MYgN8gJRJZV4Mv9tI4JxtYC6wD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/user/Documents/WEB/GestionCabinetMedical",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ab7592f-ac52-4d9c-a916-86ecc8ef9c63" name="Changes" comment="" />
+      <created>1795532872930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1795532872930</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
